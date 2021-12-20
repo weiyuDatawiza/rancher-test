@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  access-broker:
+  - apiVersion: v2
+    appVersion: 1.6.4
+    created: "2021-12-20T14:36:09.490091+08:00"
+    description: A distributed, lightweight, container-based Identity Aware proxy
+      deployed close to your application via the sidecar or standalone mode.
+    digest: 8ac511da66c610f855cd829406d4c1eb8681f2fab14482077e5e97500d065e91
+    home: https://www.datawiza.com
+    icon: https://uploads-ssl.webflow.com/5ecaec8e686e9a5d06f5face/5ecaec8e686e9a4275f5fb05_logo.svg
+    keywords:
+    - AMaaS
+    - Identity Aware proxy
+    - Zero Trust
+    - Datawiza
+    maintainers:
+    - email: weiyu@datawiza.com
+      name: weiyu
+    name: access-broker
+    type: application
+    urls:
+    - https://weiyudatawiza.github.io/rancher-test/access-broker/access-broker-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-20T14:36:09.48583+08:00"
